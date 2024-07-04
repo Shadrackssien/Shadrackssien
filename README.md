@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [YuppyCart(An E-commerce platform)](https://github.com/Shadrackssien/YuppyCart)
 
-- 🌱 I’m currently learning **Typescript and Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Shadrackssien](www.github.com/Shadrackssien)
 
