@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shadrackssien" target="blank"><img src="https://img.shields.io/twitter/follow/shadrackssien?logo=twitter&style=for-the-badge" alt="shadrackssien" /></a> </p>
 
-- 🔭 I’m currently working on [YuppyCart(An E-commerce platform)](https://github.com/Shadrackssien/YuppyCart)
+- 🔭 I’m currently working on [YupVac(An online market place for houses and vacations)](https://github.com/Shadrackssien/Yupvac)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vuejs**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Shadrackssien](www.github.com/Shadrackssien)
 
-- 💬 Ask me about **Reactjs, Javascript, AWS, and HTML/CSS**
+- 💬 Ask me about **Reactjs,Vuejs Javascript, AWS, and HTML/CSS**
 
 - 📫 How to reach me **essienShadrack6960@gmail.com**
 
